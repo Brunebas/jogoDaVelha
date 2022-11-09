@@ -1,0 +1,91 @@
+.jogo{
+    position: absolute;
+    top: 15%;
+    left: 33%;
+}
+.botao{
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 19%;
+    left: 32.5%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+.botao2{
+    width: 11%;
+    height: 20%;
+    position: absolute;
+    top: 19%;
+    left: 44%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+.botao3{
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 19%;
+    left: 56%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+.botao4{
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 40.5%;
+    left: 32.5%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+
+.botao5{
+    width: 11%;
+    height: 20%;
+    position: absolute;
+    top: 40.5%;
+    left: 44%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+
+.botao6{
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 40.5%;
+    left: 56%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+
+.botao7{
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 62%;
+    left: 32.5%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+
+.botao8{
+    width: 11%;
+    height: 20%;
+    position: absolute;
+    top: 62%;
+    left: 44%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
+
+.botao9{
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 62%;
+    left: 56%;
+    background-color: rgb(255, 255, 255);
+    border:0ch;
+}
